@@ -1,1 +1,1 @@
-# python_mini_script-
+# python_mini_script- training materials
